@@ -146,3 +146,9 @@ Because sometimes the best projects come from boredom... and then grow into some
 ---
 
 *"From chaos, beauty emerges through the power of digital evolution"* 🧬✨
+<p align="center">
+  <img src="https://img.shields.io/badge/Forge‑Theory‑Labs‑Ecosystem-black" />
+  <img src="https://img.shields.io/badge/Semantic‑System‑typed-blue" />
+  <img src="https://img.shields.io/badge/SCP‑Capsule‑included-purple" />
+</p>
+
